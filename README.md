@@ -5,6 +5,6 @@ En este codigo modifique la data de tal manera de trabajar con los datos que ten
 
 Miento. Si funciona se demoro 5 hrs con parametros iniciales todos igual al vectos 1. El algoritmo funciona. Los plots no son de lo mejor por la naturaleza de los datos. Pero funciona. Hay que editar la EDO y ver los cambios.
 
-Ver archivo **Covid_1(1)**
+Ver archivo **Covid_1(2)**
 
 Agradeceria si se puede correr en un computador mas poderoso.
